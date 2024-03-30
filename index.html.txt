@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+<meta charset="ISO-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="Description" content="Elf Qrin's Web Tools on TOR. Fake Identity and Credit Card Numbers Generator." />
+<meta name="Keywords" content="fake id, identity generator, name generator, credit card numbers generator" />
+<meta name="Generator" content="Dark Dagger web engine" />
+<meta name="Author" content="Elf Qrin" />
+<meta name="Owner" content="Elf Qrin" />
+<meta name="Copyright" content="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/legal.php" />
+<meta name="Content-Language" content="en" />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<link rel="Shortcut Icon" href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/favicon.ico" TYPE="image/x-icon" />
+<link rel="Icon" href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/favicon.ico" TYPE="image/x-icon" />
+<link rel="Top" href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/" />
+<link rel="Copyright" href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/legal.php" />
+<title>Elf Qrin's Hidden Lab - ElfQrin - elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion - elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion</title>
+<link rel="stylesheet" type="text/css" href="default.css">
+</head>
+<body>
+<a name="top"></a>
+<table cellpadding="2" cellspacing="0" border="0"><tr>
+<td align="left" valign="middle" width="20%"><img src="/img/dagger_mini-cln.png" alt="Elf Qrin Logo" border="0" /></td>
+<td align="center" valign="middle" width="60%">
+<b>Elf Qrin's Lab: The Secret Rooms</b><br />
+TOR Dark Web's pages of https://www.ElfQrin.com
+</td>
+<td align="right" valign="middle" width="20%"></td>
+</tr>
+<tr><td colspan="3" align="left" valign="middle">URL v3: <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion">elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion</a></td></tr>
+</table>
+<strong>
+<script language="JavaScript" type="text/javascript">
+<!--
+document.write('<div id="jsinfo" style="padding: 3px 3px 3px 3px; background-color: red; color: black">JavaScript is ENABLED</div>');
+// -->
+</script>
+<noscript>
+<div id="jsinfo" style="padding: 3px 3px 3px 3px; background-color: green; color: black">JavaScript is disabled</div>
+</noscript>
+</strong>
+<div class="sitemenu">
+<a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/">Home</a> | <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/fakeid.php">Fake ID</a> | <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/binfo_check_anonymity.php">Anonymity Check</a> | <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/darkelf_tor_onion_tails_config.php">Configure Tor and Tails</a> | <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/donate.php">DONATE</a></div>
+<br /><h1>Welcome to Elf Qrin's Lab: The Secret Rooms!</h1>
+<br />
+Here you can find web tools to help protect the identity of people who need to access the Web anonymously.<br />
+<a href="https://www.torproject.org/about/torusers.html.en" class="clearnet" target="_blank">Read about the good uses of TOR</a>.
+<br /><br /><br />
+<h2>Tools</h2>
+<ul class="lrg1">
+<li><a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/fakeid.php"><img src="/img/fav_id-card_1.png" alt="Fake ID Generator" class="alignvmid" border="0" /></a> <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/fakeid.php"><strong>Fake ID and Credit Card generator</strong></a></li>
+<li><a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/binfo_check_anonymity.php"><img src="/img/fav_mask.png" alt="Check browser anonymity online" class="alignvmid" border="0" /></a> <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/binfo_check_anonymity.php"><strong>Check your anonymity on the TOR Network</strong></a></li>
+</ul>
+
+<br /><br />
+<h2>Docs</h2>
+<ul class="lrg1">
+<li><a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/darkelf_tor_onion_tails_config.php"><img src="/img/document_icon_ylw_bg_blk.png" alt="How to configure TOR and Tails for better Security and Comfort" class="alignvmid" border="0" /></a> <a href="http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/darkelf_tor_onion_tails_config.php"><strong>How to configure TOR and Tails for better Security and Comfort</strong></a></li>
+</ul>
+
+
+
+
+<br /><br /><br />
+This is the TOR Network's section of the website <a href="https://www.elfqrin.com/" class="clearnet" target="_blank">www.elfqrin.com</a>.<br />
+You can access the main website in the clearnet to have more tools and extended features that can't be available on TOR for security reasons (they need JavaScript to be enabled).<br />
+It's not supported by advertising, so please <a href="donate.php">donate to keep it online</a>.<br />
+<br /><center>Page issued on Sat 30-Mar-2024 15:32 GMT</center><br /><a name="bottom"></a>
+</body>
+</html>
