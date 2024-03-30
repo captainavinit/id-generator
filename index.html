@@ -1,93 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<title>Character Generator</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			max-width: 800px;
-			margin: 0 auto;
-			padding: 20px;
-		}
-		h1 {
-			text-align: center;
-			margin-bottom: 30px;
-		}
-		form {
-			display: flex;
-			flex-wrap: wrap;
-			margin-bottom: 30px;
-		}
-		label {
-			flex-basis: 100%;
-			margin-bottom: 10px;
-		}
-		select {
-			flex-basis: 100%;
-			padding: 5px;
-			margin-bottom: 10px;
-		}
-		button {
-			flex-basis: 100%;
-			padding: 10px;
-			background-color: #333;
-			color: white;
-			border: none;
-			border-radius: 5px;
-			cursor: pointer;
-			margin-bottom: 10px;
-		}
-		#character {
-			border: 1px solid #ccc;
-			padding: 20px;
-			margin-bottom: 30px;
-			font-size: 18px;
-			line-height: 1.5;
-		}
-	</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Info Generator</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>Character Generator</h1>
-	<form>
-		<label for="gender">Gender:</label>
-		<select id="gender">
-			<option value="male">Male</option>
-			<option value="female">Female</option>
-			<option value="other">Other</option>
-		</select>
-		<label for="religion">Religion:</label>
-		<select id="religion">
-			<option value="christian">Christian</option>
-			<option value="hindu">Hindu</option>
-			<option value="muslim">Muslim</option>
-			<option value="other">Other</option>
-		</select>
-		<button onclick="generateCharacter()">Generate Character</button>
-	</form>
-	<div id="character"></div>
+    <h1>User Info Generator</h1>
+    <form id="userInfoForm">
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select><br><br>
+        <!-- Add more input fields for other user info -->
+        <button type="submit">Generate Info</button>
+    </form>
+    <div id="userInfo"></div>
 
-	<script>
-		function generateCharacter() {
-			const gender = document.getElementById("gender").value;
-			const religion = document.getElementById("religion").value;
-
-			// Generate random name based on gender and religion
-			let name = "";
-			if (gender === "male" && religion === "christian") {
-				name = "John Smith";
-			} else if (gender === "female" && religion === "christian") {
-				name = "Jane Smith";
-			} else if (gender === "male" && religion === "hindu") {
-				name = "Ram Kumar";
-			} else if (gender === "female" && religion === "hindu") {
-				name = "Sita Devi";
-			} else if (gender === "male" && religion === "muslim") {
-				name = "Ahmed Khan";
-			} else if (gender === "female" && religion === "muslim") {
-				name = "Fatima Begum";
-			} else {
-				name = "Alex Smith";
-			}
-
-			// Generate random attributes
-			const firstName = name.split
+    <script src="script.js"></script>
+</body>
+</html>
