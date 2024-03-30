@@ -8,13 +8,17 @@ document.getElementById('userInfoForm').addEventListener('submit', function(even
     })
     .then(response => response.json())
     .then(data => {
-        const userInfoDiv = document.getElementById('userInfo');
-        userInfoDiv.innerHTML = ''; // Clear previous data
-        for (const key in data) {
-            userInfoDiv.innerHTML += `<p><strong>${key}:</strong> ${data[key]}</p>`;
-        }
+        displayUserInfo(data);
     })
     .catch(error => {
         console.error('Error:', error);
     });
 });
+
+function displayUserInfo(data) {
+    const userInfoDiv = document.getElementById('userInfo');
+    userInfoDiv.innerHTML = ''; // Clear previous data
+    for (const key in data) {
+        userInfoDiv.innerHTML += `<p><strong>${key}:</strong> ${data[key]}</p>`;
+    }
+}
